@@ -153,4 +153,4 @@ The website is fully responsive with breakpoints:
 
 ## 📄 License
 
-MIT License - see the [LICENSE](../LICENSE) file for details.
+Apache2 License - see the [LICENSE](../LICENSE) file for details.
