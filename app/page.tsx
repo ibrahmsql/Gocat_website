@@ -172,7 +172,7 @@ export default function Home() {
             className="flex items-center space-x-4"
           >
             <a 
-              href="https://github.com/ibrahimsql/gocat" 
+              href="https://github.com/ibrahmsql/gocat" 
               className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors"
             >
               <Github className="w-5 h-5" />
@@ -243,7 +243,7 @@ export default function Home() {
               <span>Install Now</span>
             </a>
             <a 
-              href="https://github.com/ibrahimsql/gocat" 
+              href="https://github.com/ibrahmsql/gocat" 
               className="border border-gray-600 hover:border-gray-500 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-colors flex items-center space-x-2"
             >
               <ExternalLink className="w-5 h-5" />
@@ -471,7 +471,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <a 
-              href="https://github.com/ibrahimsql/gocat/blob/main/docs/user-guide.md" 
+              href="https://github.com/ibrahmsql/gocat/blob/main/docs/user-guide.md" 
               className="inline-flex items-center space-x-2 text-blue-400 hover:text-blue-300 transition-colors"
             >
               <span>View full documentation</span>
@@ -788,7 +788,7 @@ export default function Home() {
           </div>
           
           <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>&copy; 2025 ibrahimsql. Released under the MIT License.</p>
+            <p>&copy; 2025 ibrahmsql. Released under the MIT License.</p>
           </div>
         </div>
       </footer>
