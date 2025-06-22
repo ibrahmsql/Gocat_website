@@ -62,7 +62,7 @@ const installMethods = [
   },
   {
     title: 'Go Install',
-    command: 'go install github.com/ibrahimsql/gocat@latest',
+    command: 'go install github.com/ibrahmsql/gocat@latest',
     description: 'Install directly from source using Go'
   },
   {
@@ -72,7 +72,7 @@ const installMethods = [
   },
   {
     title: 'Direct Download',
-    command: 'curl -L https://github.com/ibrahimsql/gocat/releases/latest',
+    command: 'curl -L https://github.com/ibrahmsql/gocat/releases/latest',
     description: 'Download pre-built binaries for all platforms'
   }
 ]
@@ -767,19 +767,19 @@ export default function Home() {
             
             <div className="flex items-center space-x-6">
               <a 
-                href="https://github.com/ibrahimsql/gocat" 
+                href="https://github.com/ibrahmsql/gocat" 
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 GitHub
               </a>
               <a 
-                href="https://github.com/ibrahimsql/gocat/blob/main/docs/user-guide.md" 
+                href="https://github.com/ibrahmsql/gocat/blob/main/docs/user-guide.md" 
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 Documentation
               </a>
               <a 
-                href="https://github.com/ibrahimsql/gocat/releases" 
+                href="https://github.com/ibrahmsql/gocat/releases" 
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 Releases
